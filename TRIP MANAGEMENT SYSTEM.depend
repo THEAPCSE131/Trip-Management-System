@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1610018701 source:d:\raise at rishabh\trip management system-project\trip management system\main.cpp
+	<mysql.h>
+	<iostream>
+	<istream>
+	<sstream>
+	<stdlib.h>
+	<string>
+	<ctime>
+
